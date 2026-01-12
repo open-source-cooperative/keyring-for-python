@@ -1,6 +1,6 @@
 ## Python module for the Rust keyring
 
-[![build](https://github.com/open-source-cooperative/keyring-rs/actions/workflows/maturin-ci.yml/badge.svg)](https://github.com/open-source-cooperative/keyring-rs/actions/workflows/maturin-ci.yml)
+[![build](https://github.com/open-source-cooperative/keyring-for-python/actions/workflows/maturin-ci.yml/badge.svg)](https://github.com/open-source-cooperative/keyring-for-python/actions/workflows/maturin-ci.yml)
 
 This Rust crate, when built using the PyO3 project's `maturin` tool, produces a Python module that can be used to access the keyring ecosystem from Python. The built module is available on PyPI in the [rust-native-keyring project](https://pypi.org/project/rust-native-keyring/); use
 ```shell
