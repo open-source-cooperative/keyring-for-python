@@ -3855,3 +3855,8 @@ dependencies = [
  "syn 3.0.9",
  "winnow",
 ]
+
+[[patch.unused]]
+name = "keyring"
+version = "4.2.1"
+source = "git+https://github.com/open-source-cooperative/keyring-rs?branch=python#1e94c5c65f1c31a97629c3e1fb12f01593f9cad1"
