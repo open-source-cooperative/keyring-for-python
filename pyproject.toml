@@ -6,7 +6,7 @@ build-backend = "maturin"
 name = "rust_native_keyring"
 description = "The rust keyring crate packaged as a Python module"
 keywords = ["rust", "keyring", "credential-store"]
-requires-python = ">=3.8"
+requires-python = ">=3.9"
 classifiers = [
     "Programming Language :: Rust",
     "Programming Language :: Python :: Implementation :: CPython",
